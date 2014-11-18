@@ -1,6 +1,6 @@
 {
   "name": "node-core-module-names",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "An array of the names of the core modules in Node.js",
   "main": "index.json",
   "repository": {
